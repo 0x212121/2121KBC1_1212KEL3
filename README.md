@@ -1,4 +1,4 @@
-# Project Akhir Praktikum Kecerdasan Buatan C1/2
+# Project Akhir Praktikum Kecerdasan Buatan C1 Kelompok 3
 
 ## Nama anggota kelompok
 * Arif Fahrizal (1515015102)
